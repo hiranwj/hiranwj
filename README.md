@@ -18,7 +18,7 @@
 &nbsp; <a href="https://www.linkedin.com/in/hiranwj/" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="40" /></a>
 &nbsp; <a href="https://stackoverflow.com/users/14038198/hiranwj" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" width="40" /></a>
 &nbsp; <a href="https://twitter.com/hiranwj" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" width="40" /></a>
-&nbsp; <a href="https://twitter.com/hiranwj" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/about-me.svg" height="30"/></a> <br>
+&nbsp; <a href="https://stackoverflow.com/users/14038198/hiranwj" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/about-me.svg" height="30"/></a> <br>
 
 </p>
 
