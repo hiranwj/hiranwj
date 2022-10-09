@@ -1,7 +1,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%white&center=true&vCenter=true&width=600&height=45&lines=Howdy%2C+I'm+Hiran,+Called+Hei-ran;Experienced+as+a+developer,as+a+designer;with+a+demonstrated+history+of+working;in+the+IT+field">
 
-<h2> Hi there! I'm Hiran Wijayathilaka. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
+<h2> Hi there! I'm Hiran Wijayathilaka. 
+<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+
 
 <br>
 
