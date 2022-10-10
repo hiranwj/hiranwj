@@ -1,10 +1,28 @@
+
+
 <img src="https://readme-typing-svg.herokuapp.com?color=%white&center=true&vCenter=true&width=600&height=45&lines=Howdy%2C+I'm+Hiran,+Called+Hei-ran;Experienced+as+a+developer,as+a+designer;with+a+demonstrated+history+of+working;in+the+IT+field">
 
 <h2> Hi there! I'm Hiran Wijayathilaka. 
 <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 
+
+### Skills
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"  title ="IntelliJ IDEA" alt="IntelliJ IDEA" width="35" height="35"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title ="VS Code" alt="VS Code" width="35" height="35"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title ="Git" alt="Git" width="45" height="45"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" title="C++" alt="C++" width="30" height="auto"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"  alt="Jupyter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title ="Git" alt="Git" width="45" height="45"/>&nbsp;
+---
 <br>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hiranwj&theme=vision-friendly-dark)](https://git.io/streak-stats)<br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hiranwj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
 
