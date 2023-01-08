@@ -1,6 +1,8 @@
 <h2> Hi there! I'm Hiran Wijayathilaka. 
 <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiranwj&label=Profile%20views&color=0e75b6&style=flat" alt="dmgamage" /> </p>
+
 ### My stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hiranwj&theme=vision-friendly-dark)](https://git.io/streak-stats)<br>
